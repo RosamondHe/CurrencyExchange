@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyExchange</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="show">Result</string>
+    <string name="btn_dollar_label">DOLLAR</string>
+    <string name="btn_euro_label">EURO</string>
+    <string name="btn_won_label">WON</string>
+</resources>
