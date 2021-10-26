@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick(View btn){
         String str = input.getText().toString();
-        Log.i(TAG ,"click:input=" + str);
+        Log.i(TAG ,"onClick:input=" + str);
 
         float rmb = 0;
         float rate = 0;
@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             rate = won_rate;
         }
         float result = rate * rmb;
-        Log.i(TAG ,"click:result=" + result);
+        Log.i(TAG ,"onClick:result=" + result);
 
         //显示结果
         resultshow.setText(String.valueOf(result));

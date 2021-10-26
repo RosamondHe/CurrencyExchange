@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/H/Desktop/CurrencyExchange/app/src/main/res/layout/activity_config.xml" value="0.2390625" />
         <entry key="..\:/Users/H/Desktop/CurrencyExchange/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/H/Desktop/CurrencyExchange/app/src/main/res/layout/activity_rate.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/H/Desktop/CurrencyExchange/app/src/main/res/menu/menu.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>
